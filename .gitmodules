@@ -1,0 +1,3 @@
+[submodule "ext/spv-reflect"]
+	path = ext/spv-reflect
+	url = https://github.com/KhronosGroup/SPIRV-Reflect.git
